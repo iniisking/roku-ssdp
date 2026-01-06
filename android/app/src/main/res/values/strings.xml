@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Cast receiver app ID (media receiver) -->
+    <string name="cast_app_id">CC1AD845</string>
+</resources>
+

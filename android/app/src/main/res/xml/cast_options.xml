@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cast-options xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Default media receiver app ID -->
+    <receiver-application-id value="CC1AD845"/>
+</cast-options>
+
